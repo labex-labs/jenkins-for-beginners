@@ -15,16 +15,16 @@
 
 ## 연습
 
-|   인덱스 | 이름                                      | 난이도   | 연습                                                                                                                             |
-|----------|-------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🔵 Docker 를 이용한 Jenkins 설치       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-installing-jenkins-with-docker-391174'>실습 시작</a>              |
-|        2 | 📖 🔵 Jenkins 인터페이스 탐색             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-exploring-the-jenkins-interface-595303'>실습 시작</a>             |
-|        3 | 📖 🔵 기본 Freestyle 프로젝트 구성        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-configuring-basic-freestyle-projects-595302'>실습 시작</a>        |
-|        4 | 📖 🔵 소스 제어 (Git) 와 Jenkins 통합하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304'>실습 시작</a> |
-|        5 | 📖 🔵 빌드 파라미터화 및 스크립트 사용    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308'>실습 시작</a>     |
-|        6 | 📖 🔵 Jenkins 파이프라인 소개             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-introduction-to-jenkins-pipelines-595305'>실습 시작</a>           |
-|        7 | 📖 🔵 Jenkins 플러그인 관리               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-managing-plugins-in-jenkins-595307'>실습 시작</a>                 |
-|        8 | 📖 🔵 Jenkins 사용자 관리                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-jenkins-user-management-391302'>실습 시작</a>                     |
+|   인덱스 | 이름                                    | 난이도   | 연습                                                                                                                             |
+|----------|-----------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖  Docker 를 이용한 Jenkins 설치       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-installing-jenkins-with-docker-391174'>실습 시작</a>              |
+|        2 | 📖  Jenkins 인터페이스 탐색             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-exploring-the-jenkins-interface-595303'>실습 시작</a>             |
+|        3 | 📖  기본 Freestyle 프로젝트 구성        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-configuring-basic-freestyle-projects-595302'>실습 시작</a>        |
+|        4 | 📖  소스 제어 (Git) 와 Jenkins 통합하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304'>실습 시작</a> |
+|        5 | 📖  빌드 파라미터화 및 스크립트 사용    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308'>실습 시작</a>     |
+|        6 | 📖  Jenkins 파이프라인 소개             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-introduction-to-jenkins-pipelines-595305'>실습 시작</a>           |
+|        7 | 📖  Jenkins 플러그인 관리               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-managing-plugins-in-jenkins-595307'>실습 시작</a>                 |
+|        8 | 📖  Jenkins 사용자 관리                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/jenkins-jenkins-user-management-391302'>실습 시작</a>                     |
 
 ## 환경
 
