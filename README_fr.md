@@ -15,16 +15,16 @@ Dans ce cours, vous apprendrez à installer Jenkins sur une machine Linux à l'a
 
 ## Exercices
 
-|   Index | Nom                                                         | Difficulté   | Pratique                                                                                                                                |
-|---------|-------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🔵 Installation de Jenkins avec Docker                   | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-installing-jenkins-with-docker-391174'>Commencer le Lab</a>              |
-|       2 | 📖 🔵 Exploration de l'interface Jenkins                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-exploring-the-jenkins-interface-595303'>Commencer le Lab</a>             |
-|       3 | 📖 🔵 Configuration de Projets Freestyle de Base            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-configuring-basic-freestyle-projects-595302'>Commencer le Lab</a>        |
-|       4 | 📖 🔵 Intégration de Jenkins avec le contrôle de source ... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304'>Commencer le Lab</a> |
-|       5 | 📖 🔵 Paramétrage des Builds et Utilisation de Scripts      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308'>Commencer le Lab</a>     |
-|       6 | 📖 🔵 Introduction aux Pipelines Jenkins                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-introduction-to-jenkins-pipelines-595305'>Commencer le Lab</a>           |
-|       7 | 📖 🔵 Gestion des plugins dans Jenkins                      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-managing-plugins-in-jenkins-595307'>Commencer le Lab</a>                 |
-|       8 | 📖 🔵 Gestion des utilisateurs Jenkins                      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-jenkins-user-management-391302'>Commencer le Lab</a>                     |
+|   Index | Nom                                                       | Difficulté   | Pratique                                                                                                                                |
+|---------|-----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖  Installation de Jenkins avec Docker                   | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-installing-jenkins-with-docker-391174'>Commencer le Lab</a>              |
+|       2 | 📖  Exploration de l'interface Jenkins                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-exploring-the-jenkins-interface-595303'>Commencer le Lab</a>             |
+|       3 | 📖  Configuration de Projets Freestyle de Base            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-configuring-basic-freestyle-projects-595302'>Commencer le Lab</a>        |
+|       4 | 📖  Intégration de Jenkins avec le contrôle de source ... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304'>Commencer le Lab</a> |
+|       5 | 📖  Paramétrage des Builds et Utilisation de Scripts      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308'>Commencer le Lab</a>     |
+|       6 | 📖  Introduction aux Pipelines Jenkins                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-introduction-to-jenkins-pipelines-595305'>Commencer le Lab</a>           |
+|       7 | 📖  Gestion des plugins dans Jenkins                      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-managing-plugins-in-jenkins-595307'>Commencer le Lab</a>                 |
+|       8 | 📖  Gestion des utilisateurs Jenkins                      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jenkins-jenkins-user-management-391302'>Commencer le Lab</a>                     |
 
 ## Environnement
 
