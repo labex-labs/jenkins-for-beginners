@@ -15,16 +15,16 @@
 
 ## 演習
 
-|   インデックス | 名前                                         | 難易度   | 練習                                                                                                                              |
-|----------------|----------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🔵 Docker を使った Jenkins のインストール | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-installing-jenkins-with-docker-391174'>ラボを開始</a>              |
-|              2 | 📖 🔵 Jenkins インターフェースの探索         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-exploring-the-jenkins-interface-595303'>ラボを開始</a>             |
-|              3 | 📖 🔵 基本的な Freestyle プロジェクトの設定  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-configuring-basic-freestyle-projects-595302'>ラボを開始</a>        |
-|              4 | 📖 🔵 ソース管理（Git）と Jenkins の統合     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304'>ラボを開始</a> |
-|              5 | 📖 🔵 ビルドのパラメータ化とスクリプトの使用 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308'>ラボを開始</a>     |
-|              6 | 📖 🔵 Jenkins パイプライン入門               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-introduction-to-jenkins-pipelines-595305'>ラボを開始</a>           |
-|              7 | 📖 🔵 Jenkins プラグインの管理               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-managing-plugins-in-jenkins-595307'>ラボを開始</a>                 |
-|              8 | 📖 🔵 Jenkins ユーザー管理                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-jenkins-user-management-391302'>ラボを開始</a>                     |
+|   インデックス | 名前                                       | 難易度   | 練習                                                                                                                              |
+|----------------|--------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 📖  Docker を使った Jenkins のインストール | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-installing-jenkins-with-docker-391174'>ラボを開始</a>              |
+|              2 | 📖  Jenkins インターフェースの探索         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-exploring-the-jenkins-interface-595303'>ラボを開始</a>             |
+|              3 | 📖  基本的な Freestyle プロジェクトの設定  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-configuring-basic-freestyle-projects-595302'>ラボを開始</a>        |
+|              4 | 📖  ソース管理（Git）と Jenkins の統合     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-integrating-jenkins-with-source-control-git-595304'>ラボを開始</a> |
+|              5 | 📖  ビルドのパラメータ化とスクリプトの使用 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-parameterizing-builds-and-using-scripts-595308'>ラボを開始</a>     |
+|              6 | 📖  Jenkins パイプライン入門               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-introduction-to-jenkins-pipelines-595305'>ラボを開始</a>           |
+|              7 | 📖  Jenkins プラグインの管理               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-managing-plugins-in-jenkins-595307'>ラボを開始</a>                 |
+|              8 | 📖  Jenkins ユーザー管理                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jenkins-jenkins-user-management-391302'>ラボを開始</a>                     |
 
 ## 環境
 
